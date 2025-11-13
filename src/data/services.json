@@ -1,0 +1,19 @@
+{
+  "services": [
+    {
+      "package": "PC Tune-Up (Rinnova Package)",
+      "description": "Full software cleanup, OS optimization, dust removal, and anti-virus check.",
+      "price": "P500 - P750"
+    },
+    {
+      "package": "Digital Presence Starter",
+      "description": "Full setup and optimization of Google My Business (GMB) and Facebook Professional page.",
+      "price": "P1,500"
+    },
+    {
+      "package": "Data Safety Setup",
+      "description": "Cloud backup configuration (Google Drive/OneDrive) and data organization.",
+      "price": "P800"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: #003366; /* Deep Blue */
+}
+
+a {
+    color: #00BFFF; /* Bright Cyan/Sky Blue */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.header {
+    background-color: #003366; /* Deep Blue */
+    padding: 20px;
+    text-align: center;
+}
+
+.hero {
+    background-color: #f0f8ff; /* Light background for contrast */
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.services {
+    padding: 40px 20px;
+    background-color: #ffffff; /* White background for clarity */
+}
+
+.service-package {
+    border: 1px solid #00BFFF; /* Bright Cyan/Sky Blue */
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.why-choose {
+    padding: 40px 20px;
+    background-color: #f0f8ff; /* Light background for contrast */
+}
+
+.contact {
+    padding: 40px 20px;
+    background-color: #ffffff; /* White background for clarity */
+}
+
+.footer {
+    background-color: #003366; /* Deep Blue */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.button {
+    background-color: #00BFFF; /* Bright Cyan/Sky Blue */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #008CBA; /* Darker shade on hover */
+}
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-submit {
+    background-color: #00BFFF; /* Bright Cyan/Sky Blue */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-submit:hover {
+    background-color: #008CBA; /* Darker shade on hover */
+}
